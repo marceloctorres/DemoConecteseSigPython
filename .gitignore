@@ -1,4 +1,4 @@
-.pypirc
+*.pypirc
 *.log
 *.pyc
 *.zip
@@ -20,6 +20,7 @@ ImportarSurvey_pyt/__pycache__/
 # Distribution / packaging
 .Python
 build/
+build/lib/
 develop-eggs/
 dist/
 downloads/
@@ -33,6 +34,7 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+src/*.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
@@ -147,10 +149,3 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-
-ImportarSurvey_pyt/__pycache__/ArcGISPythonApiDataAccess.cpython-36.pyc
-ImportarSurvey_pyt/__pycache__/DataAccess.cpython-36.pyc
-ImportarSurvey_pyt/__pycache__/ImportarDatos.cpython-36.pyc
-ImportarSurvey_pyt/__pycache__/ImportarEncuestasActualizacion.cpython-36.pyc
-ImportarSurvey_pyt/__pycache__/Utiles.cpython-36.pyc
-ImportarSurvey_pyt/prueba.py
