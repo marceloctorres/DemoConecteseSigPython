@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: DemoConecteseSigPy
-Version: 0.0.0.1
+Version: 0.0.0.2
 Summary: Herramientas Demostración para el Conectese con SIG - ArcGIS Pro.
-Home-page: https://dev.azure.com/esrico-con-uaecd-ladm/ImportarEncuestaActualizacionCatastral
+Home-page: https://github.com/marceloctorres/DemoConecteseSigPython
 Author: Esri Colombia
 Author-email: mtorres@esri.co
 License: MIT
