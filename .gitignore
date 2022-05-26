@@ -1,3 +1,4 @@
+.pypirc
 *.log
 *.pyc
 *.zip
@@ -11,7 +12,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 ImportarSurvey_pyt/__pycache__/
-.pypirc
+
 
 # C extensions
 *.so
