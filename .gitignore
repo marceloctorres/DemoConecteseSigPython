@@ -3,10 +3,6 @@
 *.zip
 __*.json
 
-ImportarSurvey_pyt/*.log
-ImportarSurvey_pyt/*.pyc
-ImportarSurvey_pyt/__pycache__/*.pyc
-
 .vscode/
 .idea/
 
